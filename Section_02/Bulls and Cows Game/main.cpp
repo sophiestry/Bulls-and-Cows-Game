@@ -17,7 +17,7 @@ int main()
 
 	cout << "Take a guess: ";
 	string Guess = "";
-	cin >> Guess;
+	getline(cin, Guess);
 	cout << endl;
 
 	//repeat the guess
@@ -29,7 +29,7 @@ int main()
 
 	cout << endl;
 	cout << "Take a guess: ";
-	cin >> Guess;
+	getline (cin, Guess);
 	cout << endl;
 
 	//repeat the answer
