@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bulls and Cows Game", "Bulls and Cows Game\Bulls and Cows Game.vcxproj", "{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}.Debug|x64.ActiveCfg = Debug|x64
+		{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}.Debug|x64.Build.0 = Debug|x64
+		{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}.Debug|x86.Build.0 = Debug|Win32
+		{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}.Release|x64.ActiveCfg = Release|x64
+		{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}.Release|x64.Build.0 = Release|x64
+		{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}.Release|x86.ActiveCfg = Release|Win32
+		{A8E2BBDF-49FB-45D8-A768-32DBB5F4ED45}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFCAC724-EA89-4498-A767-2E1E1C3CB334}
+	EndGlobalSection
+EndGlobal
